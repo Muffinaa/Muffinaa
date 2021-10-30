@@ -2,7 +2,7 @@
 
 ### Contact me ~
 
-[![](https://discord.c99.nl/widget/theme-1/374220001743208459.png](https://discord.com/users/374220001743208459)
+[!][https://discord.c99.nl/widget/theme-1/374220001743208459.png](https://discord.c99.nl/widget/theme-1/374220001743208459.png](https://discord.com/users/374220001743208459)
 
 ### What i work with ~
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
@@ -17,7 +17,6 @@
   <img align="left" alt="Muffinaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muffinaa&show_icons=true&theme=dark&count_private=true"/>
   <br>
   <br>
-  <img align="left" alt="JeanOUINA's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muffinaa&layout=compact&theme=dark&count_private=true"/>
+  <img align="left" alt="Muffinaa's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muffinaa&layout=compact&theme=dark&count_private=true"/>
   <br>
-  <img align="left" alt="JeanOUINA's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muffinaa"/> 
   <br>
