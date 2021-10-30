@@ -2,6 +2,8 @@
 
 ### Contact me ~
 
+[![Discord](https://discord.c99.nl/widget/theme-1/173092194469675008.png)](https://discord.c99.nl/widget/theme-1/173092194469675008.png)
+
 https://discord.c99.nl/widget/theme-1/173092194469675008.png
 
 ### What i work with ~
