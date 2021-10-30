@@ -16,6 +16,3 @@
   <img align="left" alt="Muffinaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Muffinaa&show_icons=true&theme=dark&count_private=true"/>
   <br>
   <br>
-  <img align="left" alt="Muffinaa's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muffinaa&layout=compact&theme=dark&count_private=true"/>
-  <br>
-  <br>
