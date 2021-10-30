@@ -2,7 +2,7 @@
 
 ### Contact me ~
 
-[!][https://discord.c99.nl/widget/theme-1/374220001743208459.png](https://discord.c99.nl/widget/theme-1/374220001743208459.png](https://discord.com/users/374220001743208459)
+(https://discord.c99.nl/widget/theme-1/173092194469675008.png](https://discord.com/users/374220001743208459)
 
 ### What i work with ~
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
