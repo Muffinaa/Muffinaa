@@ -1,7 +1,7 @@
 ## Hi I'm Muffinaa
 
 ### Contact me ~
-[![Discord](https://discord.c99.nl/widget/theme-1/374220001743208459.png)](https://discord.com/users/374220001743208459)
+[![Discord Presence](https://lanyard.cnrad.dev/api/374220001743208459)](https://discord.com/users/374220001743208459)
 ### What i work with ~
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
