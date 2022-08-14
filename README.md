@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=Muffinaa&style=flat)
 <h1 align="center">Hi 👋, I'm Muffina</h1>
 <h3 align="center">A passionate Frontend Software Engineer from Poland</h3>
+<p align="center">I'm a 16 years old Web developer from Poland. I've been making smaller projects for a year now. I use Arch Linux BTW.</p>
 
 ---
-
-<p align="center">I'm a 16 years old Web developer from Poland. I've been making smaller projects for a year now. I use Arch Linux BTW.</p>
+<h3>About me:</h3>
 
 * 🌍  I'm based in Poland
 * 🖥️  Check out my Bio page [here](http://muffinaa.github.io)
@@ -14,9 +14,9 @@
 
 ---
 
-<h3 align="center">Languages and skills:</h3>
+<h3 align="left">Languages and skills:</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
