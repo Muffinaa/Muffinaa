@@ -30,7 +30,6 @@
   <img src="https://count.getloli.com/get/@Muffinaa?theme=rule34">
 </p>
 
-![Muffinaa]()
 ---
 <h3 align="center">My GitHub stats</h3>
 
