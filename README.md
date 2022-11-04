@@ -27,7 +27,7 @@
 <h3 align="center">Profile views</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Muffinaa)">
+  <img src="https://count.getloli.com/get/@Muffinaa?theme=rule34">
 </p>
 
 ![Muffinaa]()
