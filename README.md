@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Muffinaa&style=flat)
 <h1 align="center">Hi 👋, I'm Muffina</h1>
 <h3 align="center">A passionate Frontend Software Engineer from Poland</h3>
 <p align="center">I'm a 16 years old Web developer from Poland. I've been making smaller projects for a year now. I use Arch Linux BTW.</p>
@@ -23,6 +22,15 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 
+---
+ 
+<h3 align="center">Profile views</h3>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Muffinaa)">
+</p>
+
+![Muffinaa]()
 ---
 <h3 align="center">My GitHub stats</h3>
 
