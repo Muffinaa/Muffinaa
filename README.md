@@ -1,5 +1,3 @@
-# Muffinaa 
-
 ## About me
 
 Web Developer based in Poland
