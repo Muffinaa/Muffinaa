@@ -1,30 +1,23 @@
 <div align=center>
 
-<!-- Div should display the ascii art correctly -->
+### Flexing on my profile views
 
-<div align=center>
-███╗   ███╗██╗   ██╗███████╗███████╗██╗███╗   ██╗ █████╗
-
-████╗ ████║██║   ██║██╔════╝██╔════╝██║████╗  ██║██╔══██╗
-
-██╔████╔██║██║   ██║█████╗  █████╗  ██║██╔██╗ ██║███████║
-
-██║╚██╔╝██║██║   ██║██╔══╝  ██╔══╝  ██║██║╚██╗██║██╔══██║
-
-██║ ╚═╝ ██║╚██████╔╝██║     ██║     ██║██║ ╚████║██║  ██║
-
-╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-</div>
-
-### Profile views counter:
 ![Views](https://count.getloli.com/get/@Muffinaa?theme=rule34)
 
 You can contact me via [Discord](https://discord.com/users/374220001743208459)
 </div>
 
-# About me
+# Muffinaa
+
+About me:
+
+Student, Programmer, and a professional procrastinator.
+Linux enthusiast, and a fan of Arch Linux. Did I mention I use Arch Linux? I despise Debian based distros and it's users.
 
 Technologies, Programming languages, and other shit I know:
+
+<div align=center>
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -38,13 +31,5 @@ Technologies, Programming languages, and other shit I know:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Neo-Vim](https://img.shields.io/badge/-Neo--Vim-57A143?style=flat-square&logo=Neovim&logoColor=white)
 
-<!-- Float right -->
-
-<div align=right>
-
-![Stastistics](https://github-readme-stats.vercel.app/api?username=Muffinaa&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
+PHP is lame, and so are you if you use it.
 </div>
-
-
-# 
