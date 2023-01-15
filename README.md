@@ -13,6 +13,7 @@ About me:
 
 Student, Programmer, and a professional procrastinator.
 Linux enthusiast, and a fan of Arch Linux. Did I mention I use Arch Linux? I despise Debian based distros and it's users.
+Windows users too.
 
 Technologies, Programming languages, and other shit I know:
 
