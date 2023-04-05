@@ -5,6 +5,8 @@
 ![If you can see this it means api went down, big L I guess](https://count.getloli.com/get/@Muffinaa?theme=rule34)
 
 You can contact me via [Discord](https://discord.com/users/374220001743208459)
+
+Or just [mail](mailto:muffina@courvix.com) me: muffina@courvix.com
 </div>
 
 # Muffinaa
