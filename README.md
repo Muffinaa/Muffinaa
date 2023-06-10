@@ -1,7 +1,5 @@
 <div align=center>
 
-### Flexing on my profile views
-
 ![If you can see this it means api went down, big L I guess](https://count.getloli.com/get/@Muffinaa?theme=rule34)
 
 You can contact me via [Discord](https://discord.com/users/374220001743208459)
@@ -14,8 +12,7 @@ Or just [mail](mailto:muffina@courvix.com) me: muffina@courvix.com
 About me:
 
 Student, Programmer, and a professional procrastinator.
-Linux enthusiast, and a fan of Arch Linux. Did I mention I use Arch Linux? I despise Debian based distros and it's users.
-Windows users too.
+Linux enthusiast, and a fan of Arch Linux. Did I mention I use Arch Linux? 
 
 Technologies, Programming languages, and other shit I know:
 
@@ -34,5 +31,4 @@ Technologies, Programming languages, and other shit I know:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Neo-Vim](https://img.shields.io/badge/-Neo--Vim-57A143?style=flat-square&logo=Neovim&logoColor=white)
 
-PHP is lame, and so are you if you use it.
 </div>
