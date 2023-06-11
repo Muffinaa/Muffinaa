@@ -19,8 +19,6 @@ I'm a 17 year old developer from Poland. I'm currently learning [Rust](https://w
 
 <div align=center>
 
-## 🛠️ Technologies & Tools I use:
-
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
