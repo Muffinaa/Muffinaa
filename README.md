@@ -12,7 +12,7 @@ Or just [mail](mailto:muffina@courvix.com) me: muffina@courvix.com
 
 <!-- Place a description of yourself -->
 
-I'm a 17 year old developer from Poland. I'm currently learning [Rust](https://www.rust-lang.org/) and [TypeScript](https://www.typescriptlang.org/). I'm also a big fan of [React](https://reactjs.org/) and [Next.js](https://nextjs.org/). My workflow consists of [Neo-Vim](https://neovim.io/) and [Arch Linux](https://archlinux.org/) <sup>Btw</sup>.
+I'm a 17 year old developer from Poland. I'm currently learning [Rust](https://www.rust-lang.org/) and [TypeScript](https://www.typescriptlang.org/). I'm also a big fan of [React](https://reactjs.org/) and [Next.js](https://nextjs.org/). My workflow consists of [Neo-Vim](https://neovim.io/) and ~~[Arch Linux](https://archlinux.org/)~~ [Void Linux](https://voidlinux.org/) <sup>Btw</sup>.
 
 ---
 
